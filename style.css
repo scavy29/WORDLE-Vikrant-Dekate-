@@ -1,0 +1,47 @@
+.back{
+    background-color: #121213;
+}
+
+input[type="text"], textarea{
+    font-size:medium;
+    padding: 8px 10px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+body,.content, .back {
+    text-align: center;
+    color: white;
+    background: #121213;
+    overflow: hidden;
+}
+
+.back {
+    display: flex;
+    flex-direction: column;
+}
+
+td {
+    border: 2px solid #3a3a3c;
+    width: 58px;
+    height: 58px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    line-height: 2rem;
+    font-weight: bold;
+    vertical-align: middle;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    user-select: none;
+    color: white;
+    margin: 2px;
+}
+
+button {
+    height: 20px;
+    border-radius: 5px;
+    background: #818384;
+    color: #fff;
+}
