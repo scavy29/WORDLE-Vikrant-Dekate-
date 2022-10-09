@@ -6,7 +6,9 @@ I have included both Command Line Based Application as well as a Frontend Based 
 
 CMD Files:-
 <h2>Preview</h2>
-<img src="https://drive.google.com/file/d/1h5BzXWD2AfcAONY_XhGLohLMn9HcKz4b/view?usp=sharing">
+<!-- <img src="https://drive.google.com/file/d/1h5BzXWD2AfcAONY_XhGLohLMn9HcKz4b/view?usp=sharing"> -->
+<img src="https://drive.google.com/file/d/1h5BzXWD2AfcAONY_XhGLohLMn9HcKz4b/view?usp=sharing" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+
 1] main.py
 2] words.txt
 CMD based is working properly
