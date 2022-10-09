@@ -2,7 +2,7 @@
 I have included both Command Line Based Application as well as a Frontend Based application
 <html>
 <head>
-<p>Just install <b>termcolor</b> module which is an ANSI Color Formatting module which we use here to determine wrong, right letters</p>
+<p>Just install <h5>termcolor</h5> module which is an ANSI Color Formatting module which we use here to determine wrong, right letters</p>
 
 CMD Files:-
 1] main.py
