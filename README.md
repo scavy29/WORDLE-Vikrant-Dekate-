@@ -2,7 +2,7 @@
 I have included both Command Line Based Application as well as a Frontend Based application
 <html>
 <head>
-<p>Just install <a href="https://pypi.org/project/termcolor/">termcolor</a> module which is an ANSI Color Formatting module which we use here to determine wrong, right letters</p>
+<p>Just install <a href="https://pypi.org/project/termcolor/" target="blank">termcolor</a> module which is an ANSI Color Formatting module which we use here to determine wrong, right letters</p>
 
 CMD Files:-
 1] main.py
