@@ -6,8 +6,7 @@ I have included both Command Line Based Application as well as a Frontend Based 
 
 CMD Files:-
 <h2>Preview</h2>
-<!-- <img src="https://drive.google.com/file/d/1h5BzXWD2AfcAONY_XhGLohLMn9HcKz4b/view?usp=sharing"> -->
-<img src="https://drive.google.com/file/d/1h5BzXWD2AfcAONY_XhGLohLMn9HcKz4b/view?usp=sharing" >
+<img src="wordle.png">
 
 1] main.py
 2] words.txt
