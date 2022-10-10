@@ -10,6 +10,7 @@ CMD Files:-
 CMD based is working properly
 
 <h2>Preview</h2>
+<img src="wordlepreview">
 
 
 Frontend:-
