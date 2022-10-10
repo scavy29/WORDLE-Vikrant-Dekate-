@@ -11,8 +11,6 @@ CMD based is working properly
 
 <h2>Preview</h2>
 
-<img src="wordle.png">
-
 
 Frontend:-
 Tried to make the frontend only with few references without any functionality. So tried my best to make the frontend only.
